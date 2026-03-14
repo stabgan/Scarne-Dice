@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Scarne\'s Dice</string>
+    <string name="dice_image_desc">Dice showing current roll</string>
 </resources>
